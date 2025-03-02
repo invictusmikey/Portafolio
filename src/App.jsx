@@ -1,14 +1,12 @@
-import { useState } from 'react'
+import { Section } from './Section/Section'
 
 
 function App() {
 
   return (
-    <>
-     <h1 className='text-6xl '>
-      Jhon jurado
-     </h1>
-    </>
+    <div className='bg-portfolio-bg bg-cover bg-center min-h-screen  flex justify-center  '>
+      <Section/>
+    </div>
   )
 }
 

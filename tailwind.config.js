@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    backgroundImage: {
+      'portafolio-bg': "url('src/assets/fondoPortafolio.jpg')",
+    }
   },
   plugins: [],
 }
