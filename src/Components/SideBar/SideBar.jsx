@@ -8,17 +8,17 @@ import { ItemsS } from "../ItemsS/ItemsS";
 
 export const SideBar = () => {
   return (
-    <div className="bg-gradient-to-tr from-[#20283d] to-[#00030a] w-[25vw] h-[115vh]  p-9">
+    <div className="bg-[#20283d] w-[25vw] h-[100vh]  p-9">
       <ImageP image={perfil} />
       <h4 className="mt-2 text-[#afb2bc]">Desarrollador web junior</h4>
-      <div className="flex flex-col justify-between h-[30vh]"> 
+      <div className="flex flex-col justify-between "> 
         <ItemsS image={msjicon} text={"Iniciar chat"} />
-        <ItemsS image={personaicon} text={"Sobre mi"} />
+        <ItemsS image={personaicon} text={"Sobre mí"} />
         <ItemsS image={carpetaicon} text={"Proyectos"} />
         <ItemsS image={mensajeicon} text={"Contacto"} />
-        <hr className="mt-[40vh] border-2"/>
+        <hr className="mt-[25vh]  border-0.4"/>
       <div className="mt-6">
-        <p className="text-white text-md">Diseñado por jhon jurado ©</p>
+        <p className="text-white text-md">Diseñado por Jhon Jurado ©</p>
       </div>
       </div>
     </div>

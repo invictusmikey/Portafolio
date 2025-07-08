@@ -1,9 +1,10 @@
 import { SideBar } from "../../Components/SideBar/SideBar";
-
+import { Chat } from "../Chat/Chat";
 export const Home = () => {
   return (
-    <div>
+    <div className="flex">
       <SideBar />
+      <Chat />
     </div>
   );
 };
