@@ -4,7 +4,7 @@ import idiomas from "../../assets/idiomas.png"
 
 export const TittleBar = () => {
   return (
-    <div className="flex justify-between  space-x-2 items-center p-6 border-b-2 w-[75vw] shadow-slate-200 shadow-md">
+    <div className="flex justify-between  space-x-2 items-center p-6 border-b-2 w-[80vw] shadow-slate-200 shadow-md">
       <div className="flex items-center justify-center ">
         <h1 className="ml-2 font-bold text-2xl bg-gradient-to-r from-[#4087f4] to-[#46ecb7]  bg-clip-text text-transparent mr-3">
           Portafolio
