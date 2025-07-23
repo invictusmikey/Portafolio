@@ -2,9 +2,9 @@ import { TittleBar } from "../../Components/TittleBar/TittleBar";
 
 export const Aboutme = () => {
   return (
-    <div>
+    <div className="overflow-y-auto">
       <TittleBar />
-      <div className=" p-8 rounded-xl pointer-events-none w-[75vw] h-[40vh] border-2 border-[#3c8aed] mt-6 ml-10">
+      <div className="p-8 rounded-xl w-[75vw] h-[80vh] border-2 border-[#3c8aed] mt-6 ml-10 overflow-y-auto">
         <h1>
           <b className="text-sky-600 text-3xl">Sobre Mí.</b>
         </h1>
@@ -24,6 +24,15 @@ export const Aboutme = () => {
           generen valor. Estoy comprometido con mi crecimiento profesional y con
           sumar al equipo con responsabilidad y proactividad.
         </p>
+        
+        <iframe
+          src="/HojaDeVidaPersonal.pdf"
+          type="application/pdf"
+          width="100%"
+          height="500px"
+          className="mt-6 rounded-lg border"
+          title="Hoja de vida"
+        ></iframe>
       </div>
     </div>
   );

@@ -18,7 +18,7 @@ export const Chat = () => {
         <OpcionChat text={"Cuéntame sobre tus proyectos"} />
         <OpcionChat text={"¿Cómo puedo contactarte?"} />
 
-        <ChatBar />
+        <ChatBar isActive={true}/>
       </div>
     </div>
   );
