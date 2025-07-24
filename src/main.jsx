@@ -4,8 +4,8 @@ import { I18nextProvider } from "react-i18next";
 import i18next from "i18next";
 import "./index.css";
 import App from "./App.jsx";
-import global_en from "./translation/en/global.JSON";
-import global_es from "./translation/es/global.JSON";
+import global_en from "./translation/en/global.json";
+import global_es from "./translation/es/global.json";
 
 i18next.init({
   interpolation: { escapeValue: false },
