@@ -1,0 +1,43 @@
+{
+  "TittleBar": {
+    "Portafolio": "Portafolio"
+  },
+  "SideBar": {
+    "Desarrollador web junior": "Desarrollador web junior",
+    "Iniciar chat": "Iniciar chat",
+    "Proyectos": "Mis proyectos",
+    "Sobre mi": "Sobre mí",
+    "Contacto": "Contacto",
+    "Diseñado por Jhon Jurado ©": "Diseñado por Jhon Jurado ©"
+  },
+  "TittleC": {
+    "Acerca de mi perfil profesional👓🧒🏻": "Acerca de mi perfil profesional👓🧒🏻"
+  },
+  "Comment": {
+    "Hola": "¡Hola! 👋🏻mi nombre es Jhon Edison Jurado. Este es mi portafolio, puedes elegir una de las opciones o escribir otra pregunta que desees, también puedes ver más acerca de mí, mis proyectos y forma de contacto en el panel de la izquierda, en caso de que lo veas en móvil da click en la foto para desplegar."
+  },
+  "Chat": {
+    "Selecciona una opción": "Selecciona una opción :"
+  },
+  "OpcionChat": {
+    "¿Qué tecnologías manejas?": "¿Qué tecnologías manejas?",
+    "Cuéntame sobre tus proyectos": "Cuéntame sobre tus proyectos",
+    "¿Cómo puedo contactarte?": "¿Cómo puedo contactarte?"
+  },
+  "ChatBar": {
+    "Escribe un mensaje...": "Escribe un mensaje..."
+  },
+  "Aboutme": {
+    "caso": "Soy un desarrollador full stack junior con experiencia en la construcción de aplicaciones web utilizando tecnologías como **React, Node.js y TypeScript**. Me especializo en el desarrollo de APIs y en la integración con bases de datos relacionales como **MySQL** y no relacionales como **MongoDB**, usando ORMs como **Sequelize** y **Mongoose**. Me siento cómodo trabajando tanto en el frontend como en el backend, y manejo herramientas como **Git, GitHub, TailwindCSS y Bootstrap**. He trabajado en proyectos reales que me han permitido aplicar mis conocimientos para resolver problemas concretos, siempre buscando escribir código limpio, organizado y mantenible. Disfruto el **trabajo en equipo**, el aprendizaje constante y aportar soluciones prácticas que generen valor. Estoy comprometido con mi crecimiento profesional y con sumar al equipo con responsabilidad y proactividad.",
+    "Sobre mí": "Sobre mí"
+  },
+  "Contact":{
+    "Contacto":"Contacto",
+    "msj":"Estos son mis medios de contacto",
+    "correo":"correo"
+  },
+  "Projects":{
+    "Proyectos": "Proyectos",
+    "msj":"Estos son mis proyectos personales"
+  }
+}
