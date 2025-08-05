@@ -1,0 +1,47 @@
+{
+  "TittleBar": {
+    "Portafolio": "Portfolio"
+  },
+
+  "SideBar": {
+    "Desarrollador web junior": "Web Developer Junior",
+    "Iniciar chat": "Start chat",
+    "Proyectos": "My projects",
+    "Sobre mi": "About me",
+    "Contacto": "Contact",
+    "Diseñado por Jhon Jurado ©": "Designed by Jhon Jurado ©"
+  },
+  "TittleC": {
+    "Acerca de mi perfil profesional👓🧒🏻": "About mi professional profile 👓🧒🏻"
+  },
+  "Comment": {
+    "Hola": "Hello! 👋🏻 My name is Jhon Edison Jurado.  This is my portfolio, you can choose one of the options or write another question you want, you can also see more about me, my projects and contact information in the left panel, if you are viewing this on mobile click on the photo to expand."
+  },
+  "Chat": {
+    "Selecciona una opción": "Select an option :"
+  },
+  "OpcionChat": {
+    "¿Qué tecnologías manejas?": "What technologies do you use?",
+    "Cuéntame sobre tus proyectos": "Tell me about your projects",
+    "¿Cómo puedo contactarte?": "How can I contact you?"
+  },
+  "ChatBar": {
+    "Enviar": "Send",
+    "Escribe un mensaje...": "Write a message..."
+  },
+  "Aboutme": {
+    "caso": "I am a full stack junior developer with experience in building web applications using technologies such as **React, Node.js, and TypeScript**. I specialize in API development and integration with relational databases like **MySQL** and non-relational databases like **MongoDB**, using ORMs like **Sequelize** and **Mongoose**. I am comfortable working on both the frontend and backend, and I use tools like **Git, GitHub, TailwindCSS, and Bootstrap**. I have worked on real projects that have allowed me to apply my knowledge to solve concrete problems, always striving to write clean, organized, and maintainable code. I enjoy **teamwork**, continuous learning, and providing practical solutions that add value. I am committed to my professional growth and to contributing to the team with responsibility and proactivity.",
+    "Sobre mí": "About me"
+    },
+    "Contact":{
+    "Contacto": "Contact",
+    "msj":"These are my contact methods",
+    "correo":"email"
+    },
+    "Projects":{
+        "Proyectos": "Projects",
+        "msj":"These are my personal projects"
+    }
+    
+    
+}
